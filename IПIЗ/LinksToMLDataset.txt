@@ -1,0 +1,3 @@
+https://www.ml4devs.com/articles/datasets-for-machine-learning-and-data-science/
+https://www.clickworker.com/customer-blog/machine-learning-datasets/
+https://archive.ics.uci.edu/
